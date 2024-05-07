@@ -1,0 +1,47 @@
+.cozinha{
+    display: table-cell; 
+    padding: 30px 3px 8px 10px;
+       
+    
+}
+.quarto{
+    display: table-cell;
+    padding: 30px 3px 8px 10px;
+   
+  
+}
+.banheiro{
+    display: table-cell;
+    padding: 30px 3px 8px 10px;
+    
+
+    
+}
+.itens{
+    display: table-cell;
+    padding: 30px 3px 8px 10px;
+    
+
+    
+}
+.TITULO{
+    align-items: center;
+    object-fit: cover;
+}
+
+l2 div img{
+  
+    width: 200px;
+    height: 190px;
+    border-radius: 70%;
+    border: 7px solid silver;
+    
+    
+    
+
+}
+body{
+    background-color: gray;
+    display: table-cell;
+   
+}
